@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Josué :)
+- 👋 Hi, my name is Josué and i'm from Brazil :)
 
 - I'm a student of Information Systems at the Federal University of Santa Maria
 
